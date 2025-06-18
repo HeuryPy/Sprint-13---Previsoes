@@ -9,7 +9,7 @@ Este Projeto foi desenvolvido como requisito para aprovação na Sprint 13 do Bo
 * Métricas de negócios
 * Testes de Hipótese (testes A/B)
 
-Ferramentas e bibliotecas utilizadas<br>
+Ferramentas e bibliotecas utilizadas:<br>
 sklearn.model_selection, sklearn.preprocessing, sklearn.linear_model, sklearn.ensemble, sklearn.metrics, sklearn.cluster, scipy.cluster.hierarchy
 
 💡O Projeto teve como objetivo analisar dados de uma rede de academias e construir modelos para prever a rotatividade de clientes, além de identificar grupos com perfis semelhantes por meio de técnicas de agrupamento..
